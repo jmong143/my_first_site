@@ -1,0 +1,13 @@
+.season:hover{
+  box-shadow:5px 5px 5px #134d84;
+}
+
+.img-size{
+  height: 350px;
+  width: 290px;
+}
+
+.img-size-wide{
+  height: 350px;
+  width: 500px;
+}
