@@ -4,6 +4,7 @@
   <link rel = "stylesheet" href = "css/bootstrap.min.css"/>
   <link rel = "stylesheet" href = "css/style.css"/>
   <link rel = "stylesheet" href = "css/season.css"/>
+  <link rel="icon" href="./img/icon.ico">
 </head>
 <body>
   <img src="img/banner3.png" alt="Pokemon Banner" style="cursor:pointer;" class = "img-responsive"/>

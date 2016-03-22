@@ -64,6 +64,23 @@ $(document).ready(function(){
     $("#season15Details").slideToggle(1000);
   });
 
+  $("#season16").click(function(){
+    $("#season16Details").slideToggle(1000);
+  });
+
+  $("#season17").click(function(){
+    $("#season17Details").slideToggle(1000);
+  });
+
+  $("#season18").click(function(){
+    $("#season18Details").slideToggle(1000);
+  });
+
+  $("#season19").click(function(){
+    $("#season19Details").slideToggle(1000);
+  });
+
+
 
 
 
