@@ -196,7 +196,7 @@
   </div>
 
 
-  <div class = "col-md-2"></div>
+<div class = "col-md-2"></div>
 <script src = "js/jquery-1.8.1.min.js"></script>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -663,5 +663,79 @@
               </div>
             </div>
           </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="pReference" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Thanks for the Informations :)</h4>
+                </div>
+                <div class="modal-body">
+                  <table class="table table-striped table-hover ">
+                    <tbody>
+                      <tr>
+                        <td><center><img src = "./img/reference/psy.jpg" class = "img-responsive"></center></td>
+                        <td><p><a href = "http://psypoke.com/">Psypoke.com</a></p></td>
+                      </tr>
+                      <tr>
+                        <td><center><img src = "./img/reference/pokemon.jpg" class = "img-responsive"></center></td>
+                        <td><p><a href = "http://www.pokemon.com/">Pokemon.com</a></p></td>
+                      </tr>
+                      <tr>
+                        <td><center><img src = "./img/reference/bulbapedia.jpg" class = "img-responsive"></center></td>
+                        <td><p><a href = "http://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum">Bulbapedia.com</a></p></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<footer class="footer">
+  <div class="container text-center">
+    <div class="col-lg-12">
+      <div class="col-md-4">
+        <p><b>Address</b><p>
+        <p><span class = "glyphicon glyphicon-map-marker"></span> 357 Juan Luna St. Sto Nino Area D. Camarin Caloocan City</p>
+      </div>
+      <div class="col-md-4">
+        <p><b>Email</b><p>
+        <p><span class = "glyphicon glyphicon-envelope"></span> jhonlance.37@gmail.com</p>
+      </div>
+      <div class="col-md-4">
+        <p><a href = ""  data-toggle="modal" data-target="#pReference" data-backdrop="static">Reference</a><p>
+        <p><a href = "about.html">About</a><p>
+        <p><a href = "comments.html">Comments</a><p>
+      </div>
+    </div>
+    <div class="col-md-12">
+      <p class = "text-center">© Copyright 2016 All Rights Reserved - John Michael Ong</p>
+    </div>
+  </div>
+</footer>
 </body>
 </html>
